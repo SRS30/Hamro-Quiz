@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "408883557600",
+    "firebase_url": "https://hamro-quiz-360217-default-rtdb.firebaseio.com",
+    "project_id": "hamro-quiz-360217",
+    "storage_bucket": "hamro-quiz-360217.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408883557600:android:54d110a0082a13b6944c85",
+        "android_client_info": {
+          "package_name": "com.srs.hamroquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408883557600-3mar8tdcupops4si1m84dd1leeokq7qv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.srs.hamroquiz",
+            "certificate_hash": "532814a1619aca6c13002df4f3e9ea17f63bb5bf"
+          }
+        },
+        {
+          "client_id": "408883557600-js98acc09nicgf04jqtqbbc92sf6461g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4gv2qmQeD5Oj-RVi5Kk2rfPYnyoo_KXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408883557600-js98acc09nicgf04jqtqbbc92sf6461g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
