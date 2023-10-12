@@ -1,18 +1,10 @@
+Project Description:
+Hamro Quiz - The Best Quiz App of Nepal
 
+Hamro Quiz is a mobile application developed in Flutter, providing an engaging and interactive quiz experience. It offers a wide range of quizzes covering various topics and categories, making it the best quiz app in Nepal. Test your knowledge, challenge your friends, and learn something new with Hamro Quiz!
 
-# flutterquiz
+App Link: https://play.google.com/store/apps/details?id=com.srs.hamroquiz
+Download Hamro Quiz
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+License:
+All Rights Reserved - Unauthorized use, distribution, or replication of this app or its content is prohibited without prior consent.
